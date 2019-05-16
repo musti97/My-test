@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/musti97/my-test/issues"
   },
-  "homepage": "https://github.com/musti97/my-test#readme"
+  "homepage": "https://github.com/musti97/my-test#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
 }
